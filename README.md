@@ -1,0 +1,2 @@
+# Homer
+Homer podešavanja
